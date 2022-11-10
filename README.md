@@ -8,3 +8,5 @@
 [google](https://www.google.com/?safe=active&ssui=on)
 
 [spotify](https://spotify.com)
+
+[Chrome Remote Desktop](https://remotedesktop.google.com)
