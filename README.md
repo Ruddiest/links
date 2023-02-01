@@ -15,4 +15,4 @@
 
 [rammerhead](https://offical.burnsphonerepairs.tech/)
 
-[SH1MMER](sh1mmer.me)
+[SH1MMER](https://sh1mmer.me)
