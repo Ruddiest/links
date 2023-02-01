@@ -15,4 +15,4 @@
 
 [rammerhead](https://offical.burnsphonerepairs.tech/)
 
-[chrome version](https://chrome://verison)
+[SH1MMER](sh1mmer.me)
