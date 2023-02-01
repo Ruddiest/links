@@ -20,3 +20,5 @@
 [SH1MMER web builder](https://sh1mmer.me/builder.html)
 
 [SH1mmer main file mirror](https://files.utimatesrv.com)
+
+[RMA shims for SH1mmer](https://github.com/diffusehyperion/sh1mmer-archived)
