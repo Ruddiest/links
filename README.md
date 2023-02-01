@@ -16,3 +16,7 @@
 [rammerhead](https://offical.burnsphonerepairs.tech/)
 
 [SH1MMER](https://sh1mmer.me)
+
+[SH1MMER web builder](https://sh1mmer.me/builder.html)
+
+[SH1mmer main file mirror](https://files.utimatesrv.com)
