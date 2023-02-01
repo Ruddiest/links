@@ -14,3 +14,5 @@
 [multitab](https://Google.ruddiestgaming1.repl.co)
 
 [rammerhead](https://offical.burnsphonerepairs.tech/)
+
+[chrome version](chrome://verison)
