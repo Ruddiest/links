@@ -5,7 +5,9 @@
 
 [discord](https://www.discord.com)
 
-[slope](https://slopegame.io)      addeed cus everyone in reading playes it
+[slope](https://slopegame.io)      addeed cus everyone in reading playes it same with super mario
+
+[super mario](https://supermario-game.com/)
 
 [google](https://www.google.com/?safe=active&ssui=on)
 
