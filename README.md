@@ -5,6 +5,8 @@
 
 [discord](https://www.discord.com)
 
+[slope](https://slopegame.io)      addeed cus everyone in reading playes it
+
 [google](https://www.google.com/?safe=active&ssui=on)
 
 [spotify](https://spotify.com)
