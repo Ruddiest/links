@@ -1,5 +1,6 @@
 # links
 
+Tip: use the back and forward arrows at the top of your keybord to go back and forth in pages ou opened
 
 [Reddit](https://www.reddit.com)
 
