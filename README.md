@@ -1,12 +1,11 @@
 # links
 
-Tip: use the back and forward arrows at the top of your keybord to go back and forth in pages ou opened
 
 [Reddit](https://www.reddit.com)
 
 [discord](https://www.discord.com)
 
-[slope](https://slopegame.io)      addeed cus everyone in reading playes it same with super mario
+[slope](https://slopegame.io)  
 
 [super mario](https://supermario-game.com/)
 
