@@ -11,6 +11,8 @@
 
 [google](https://www.google.com/?safe=active&ssui=on)
 
+[browser test](https://www.browserling.com/)
+
 [spotify](https://spotify.com)
 
 [Chrome Remote Desktop](https://remotedesktop.google.com)
