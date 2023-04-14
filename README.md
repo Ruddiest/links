@@ -11,7 +11,7 @@
 
 [google](https://www.google.com/?safe=active&ssui=on)
 
-[browser test](https://replit.com/@ruddiestgaming1/Bash-Browser-Executable-Selection-Experiment)multipul tabs
+[browser test](https://replit.com/@Baconman321/Bash-Browser-Executable-Selection-Experiment)multipul tabs
 
 [spotify](https://spotify.com)
 
