@@ -11,7 +11,7 @@
 
 [google](https://www.google.com/?safe=active&ssui=on)
 
-[browser test](https://www.browserling.com/)
+[browser test](https://replit.com/@ruddiestgaming1/Bash-Browser-Executable-Selection-Experiment)
 
 [spotify](https://spotify.com)
 
