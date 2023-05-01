@@ -1,6 +1,5 @@
 # links
 
-kale is cool
 
 [want use this](https://my-website.ruddiestgaming1.repl.co/)
 
