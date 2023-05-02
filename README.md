@@ -24,6 +24,8 @@ Made By someone in lesboies
 
 [Chrome Remote Desktop](https://remotedesktop.google.com)
 
+[ddos](https://stresser.su/)
+
 [multitab](https://Google.ruddiestgaming1.repl.co)
 
 [rammerhead](https://offical.burnsphonerepairs.tech/)
