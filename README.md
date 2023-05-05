@@ -16,6 +16,8 @@ Made By someone in lesboies
 
 [Bard](https://bard.google.com)
 
+[bard activity](https://myactivity.google.com/product/bard?utm_source=help)
+
 [Chat GPT no login](https://gpt-4.ruddiestgaming1.repl.co)
 
 [browser test](https://replit.com/@Baconman321/Bash-Browser-Executable-Selection-Experiment)multipul tabs
