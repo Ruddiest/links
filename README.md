@@ -2,6 +2,8 @@
 
 Made By someone in lesboies
 
+[gpt bypass](https://cdn.discordapp.com/attachments/1092675537853497445/1104122783518175342/ChatGPT-Bypass.txt)
+
 [want use this](https://my-website.ruddiestgaming1.repl.co/)
 
 [Reddit](https://www.reddit.com)
