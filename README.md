@@ -2,7 +2,7 @@
 
 Made By someone in lesboies
 
-If every one told 2 prople in the school about geogebra then we will have over 800 views each day so if you can tell other people.
+If every one told 2 prople in the school about geogebra then we will have over 800 views each day so if you can tell other people only tell those that you can trust.
 
 [gpt bypass](https://cdn.discordapp.com/attachments/1092675537853497445/1104122783518175342/ChatGPT-Bypass.txt)
 
