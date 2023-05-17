@@ -11,7 +11,7 @@ If every one told 2 people in the school about geogebra then we will have over 8
 
 [Reddit](https://www.reddit.com)
 
-[moved all the games here]()
+[put new games in here](https://github.com/Ruddiest/links/blob/main/games.md)
 
 [discord](https://www.discord.com)
 
