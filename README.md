@@ -7,6 +7,10 @@ Made By someone in lesboies
 
 [want use this](https://my-website.ruddiestgaming1.repl.co/)
 
+[gemotry dash](https://geometrydash.io/)
+
+[retro bowl](https://retrobowl.me/)
+
 [Reddit](https://www.reddit.com)
 
 [put new games in here](https://github.com/Ruddiest/links/blob/main/games.md)
