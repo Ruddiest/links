@@ -3,6 +3,10 @@
 
 Made By someone in lesboies
 
+[pickle hub alternitive it was discontinued do i used rammerhead](https://valow.gq/)
+
+tell me if the link is not working and i make a new one
+
 [gpt bypass](https://cdn.discordapp.com/attachments/1092675537853497445/1104122783518175342/ChatGPT-Bypass.txt)
 
 [want use this](https://my-website.ruddiestgaming1.repl.co/)
