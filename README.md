@@ -25,7 +25,7 @@ tell me if the link is not working and i make a new one
 
 [super mario](https://supermario-game.com/)
 
-[google](https://www.google.com/?safe=active&ssui=on)
+[google]([https://www.google.com/?safe=active&ssui=on](https://link-target.net/981217/to-google) added a add you can skip just needed some money
 
 [Bard](https://bard.google.com)
 
